@@ -1,3 +1,18 @@
+/*body {
+    background-image: url("img/explosion.jpg");
+        background-repeat:no-repeat;
+       background-size:cover;
+} 
+*/
 h4 {
     color: white;
+    cursor: pointer
+}
+
+.clickable {
+
+}
+
+.ethereal-background {
+    background-image: url("img/ethereal.jpg");
 }
