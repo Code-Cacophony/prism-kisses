@@ -1,18 +1,65 @@
-/*body {
-    background-image: url("img/explosion.jpg");
-        background-repeat:no-repeat;
-       background-size:cover;
+body {
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-image: url("../img/explosion.jpg");
 } 
-*/
+
+.background {
+    display: none;
+}
+
+
+
 h4 {
     color: white;
     cursor: pointer
 }
 
-.clickable {
+#mermaid {
+    width:400px;
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+#dog {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .ethereal-background {
-    background-image: url("img/ethereal.jpg");
+    background-image: url("../img/ethereal.jpg");
+}
+
+.ethereal2-background {
+    background-image: url("../img/ethereal2.jpg");
+
+}
+
+.itsut {
+    float: right;
+    padding-right: 860px;
+    padding-top: 200px;
+    font-size: 50px;
+}
+
+#mask {
+    width:  300px;
+}
+
+.img2 {
+    width:300px;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-family: cursive;
+    font-size: 60px;
+}
+
+#old {
+    width: 300px;
 }
