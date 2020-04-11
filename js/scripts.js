@@ -7,5 +7,5 @@ $(document).ready(function () {
 
     $("#kisses").click(function () {
         $("body").addClass("ethereal2-background");
-    })
+    });
 });
